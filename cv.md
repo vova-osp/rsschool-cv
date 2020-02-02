@@ -24,6 +24,15 @@
 * Basic JS
 * Tools: VSC, Sublime Text, Photoshop, Figma, Avocode
 
+### Навчання:
+* Курс Projector [Basic Front End](https://prjctr.com.ua/)
+* Курс SoloLearn [HTML](https://www.sololearn.com/Profile/9052531)
+* Курс SoloLearn [CSS](https://www.sololearn.com/Profile/9052531)
+* Курс SoloLearn [JS](https://www.sololearn.com/Profile/9052531)
+* Курс Udemy [JS](https://www.udemy.com/user/volodymyr-osipov/)
+
+### Англійська:
+* Elementary 
 
 
 
