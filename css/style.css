@@ -159,3 +159,30 @@ section {
     -webkit-border-radius: 4px;
     border-radius: 4px;
 }
+
+
+/*certificates*/
+.certificates {
+    padding-bottom: 120px;
+}
+.certificates__gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    margin: 0 -10px;
+}
+
+.certificates__gallery a {
+    display: block;
+    margin: 10px;
+    width: calc(50% - 20px);
+    overflow: hidden;
+    position: relative;
+    -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+}
+
+.certificates__gallery img {
+    display: block;
+    max-width: 100%;
+}
